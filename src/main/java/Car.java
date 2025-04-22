@@ -4,6 +4,6 @@ public class Car { // класс машина
 
     public Car(String name, int speed) { // конструктор с параметрами name и speed.
         this.name = name; // имя машины
-        this.speed = speed; // скорость машины
+        this.speed = speed; // скорость машины.
     }
 }

@@ -13,6 +13,6 @@ public class Race { // класс гонка.
             this.leader = car.name; // то, текущего лидера присваиваем названию машины
             this.distance = newDistance; // то текущую дистанцию присваиваем к новой дистанции
         }
-        return leader; // возвращаем лидера
+        return leader; // возвращаем лидера.
     }
 }

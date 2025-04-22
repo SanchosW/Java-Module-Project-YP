@@ -45,7 +45,7 @@ public class Main {
             Car car = new Car(name, speed); // экземпляр класса
             race.currentLeader(car); // возвращаем метод текущего лидера
         }
-        System.out.println("Самая быстрая машина: " + race.leader); // выводим сообщения лидера
+        System.out.println("Самая быстрая машина: " + race.leader); // выводим сообщения лидера.
         scanner.close();
     }
 }
